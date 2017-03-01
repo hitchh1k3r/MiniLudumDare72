@@ -1,0 +1,31 @@
+{
+  "settings":
+  {
+    "ensure_newline_at_eof_on_save": true,
+    "atomic_save": true,
+  },
+  "folders":
+  [
+    {
+      "name": "Project",
+      "file_include_patterns":
+      [
+        ".gitignore",
+        "*.sublime-project"
+      ],
+      "folder_exclude_patterns":
+      [
+        "*"
+      ],
+      "path": "."
+    },
+    {
+      "file_exclude_patterns":
+      [
+        "*.meta"
+      ],
+      "path": "./Assets"
+    }
+  ],
+  "solution_file": "./Simon.sln"
+}

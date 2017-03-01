@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3cd72976a3b76864f8673c1905906139
+timeCreated: 1488118430
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 50
+  forceTextureCase: 3
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: League Spartan
+  fontNames:
+  - League Spartan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d00d2a44311bc654b97d4ae5a90526dc, type: 3}
+  customCharacters: "\u2191\u2192\u2193\u2190"
+  fontRenderingMode: 0
+  ascentCalculationMode: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
