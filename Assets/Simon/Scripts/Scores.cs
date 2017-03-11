@@ -43,7 +43,7 @@ public class Scores : MonoBehaviour
         if(data.scores[i].score > 0 && data.scores[i].name != null &&
               data.scores[i].name.Trim() != "")
         {
-          if(++count >= 15)
+          if(++count > 15)
           {
             newScores.Add(new ScoreEntry(0, data.scores[i].name, data.scores[i].score));
           }
